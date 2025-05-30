@@ -170,7 +170,7 @@ The Solid State Relay provides a high degree of reliability, long life and reduc
 > ![TRIAC](https://github.com/user-attachments/assets/5160916a-e3c5-49c7-86cc-97e0da263b2b)
 > 
 
-> #### OPTOCOUPLER
+> #### Optocoupler
 > An optocoupler, also known as an optoisolator or photocoupler, uses light to electrically isolate two circuits while transferring signals between them. It consists of a light-emitting diode (LED) and a photosensitive device, typically a phototransistor or photodiode, that converts the light into a current. This allows for signal transmission without direct electrical contact between the circuits.
 > 
 > ![Optocoupler](https://github.com/user-attachments/assets/243040ae-56d0-4d71-8cd5-232ef7ce0ba3)
